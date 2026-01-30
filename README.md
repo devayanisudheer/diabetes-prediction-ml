@@ -1,7 +1,10 @@
 # Diabetes Prediction using Machine Learning
 
 This project focuses on predicting diabetes using machine learning techniques.
-It was developed as an academic project using Python.
+It was developed as an academic project using Python and Scikit-learn.
+
+## Objective
+To build a machine learning model that predicts whether a person is likely to have diabetes based on medical parameters.
 
 ## Technologies Used
 - Python
@@ -10,18 +13,18 @@ It was developed as an academic project using Python.
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Description
-The project includes:
+## Project Workflow
 - Data preprocessing
-- Training a machine learning model
-- Evaluating model performance
-- Saving the trained model for future use
+- Feature selection
+- Model training
+- Model evaluation
+- Saving the trained model
 
 ## Files in this Repository
-- `diabetes_prediction.ipynb` – Jupyter notebook containing the full implementation
+- `diabetes_prediction.ipynb` – Jupyter notebook containing full implementation
 - `diabetes_model.pkl` – Trained machine learning model
+- `Diabetes_Model_User_Manual.pdf` – Project documentation and usage guide
 
-## Author
-Devayani S  
-BTech Computer Science (Data Science)  
-College of Engineering, Adoor
+## Notes
+- Dataset is not included in this repository.
+- This project is for academic and learning purposes.
